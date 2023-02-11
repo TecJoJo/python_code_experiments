@@ -4,3 +4,5 @@ def printSequance(n):
             print(i)
 
 printSequance(10)
+
+
