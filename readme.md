@@ -1,5 +1,7 @@
 # This is a review of the basic syntax, terminology of Python after nearly one year break
 
+## I also wrote one small snippet(mini project with python) for the automating purpose, where I iterated this github folder and collected all the Category names instead of typing them by myself [LINK](https://github.com/TecJoJo/python_code_experiments/blob/main/collectNames.py)
+
 Snippets here dealed with most important terminologies， 
 
 ### categories below 
@@ -25,5 +27,4 @@ Snippets here dealed with most important terminologies，
 * unpacking_tuple_list
 * variable_scope
 
-# I also wrote one small snippet for the automating purpose, where I iterated this github folder and collected all the Category names instead of typing them by myself
  
