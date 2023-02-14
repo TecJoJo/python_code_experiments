@@ -3,8 +3,7 @@ import os
 def lowerCase(word):
     return    word.lower()
 
-# iterate over files in
-# that directory
+
 categoryList = []
 
 # I used relative path here, use folder path as parameter
