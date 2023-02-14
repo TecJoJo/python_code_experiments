@@ -1,0 +1,21 @@
+* class
+* closure
+* collectNames
+* decorator
+* dictionary
+* display_info.log
+* file
+* generate_fibomacci_sequance
+* global keyword
+* import
+* iterator
+* json_libary
+* lambda
+* list_comprehension
+* my_module
+* Numpy
+* os_module
+* range
+* requests_module
+* unpacking_tuple_list
+* variable_scope
