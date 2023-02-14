@@ -27,4 +27,4 @@ Snippets here dealed with most important terminologies，
 * unpacking_tuple_list
 * variable_scope
 
- 
+### the reviewing was by follwing w3school and an youtube channel of [Corey Schafer](https://www.youtube.com/@coreyms)
